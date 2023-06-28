@@ -1,0 +1,62 @@
+[
+  {
+    "id": "1",
+    "title": "Iphone 13 Pro Max",
+    "description": "El nuevo Iphone 13 Pro con 1TB de memoria y 16GB de RAM",
+    "code": "CD-001",
+    "price": 1000,
+    "status": true,
+    "stock": 4,
+    "category": "Celulares",
+    "thumbnail": [
+      {
+        "id": 1,
+        "url": "https://cdn.pixabay.com/photo/2016/11/29/05/08/apple-1867461_960_720.jpg"
+      },
+      {
+        "id": 2,
+        "url": "https://cdn.pixabay.com/photo/2016/11/29/05/08/apple-1867461_960_720.jpg"
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "title": "Sansumg S22",
+    "description": "El nuevo Sansumg S22 con 1TB de memoria y 16GB de RAM",
+    "code": "CD-002",
+    "price": 900,
+    "category": "Celulares",
+    "status": true,
+    "stock": 4,
+    "thumbnail": [
+      {
+        "id": 1,
+        "url": "https://cdn.pixabay.com/photo/2016/11/29/05/08/apple-1867461_960_720.jpg"
+      },
+      {
+        "id": 2,
+        "url": "https://cdn.pixabay.com/photo/2016/11/29/05/08/apple-1867461_960_720.jpg"
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "title": "Mavic Pro 2",
+    "description": "El nuevo Mavic Pro 2",
+    "code": "CD-003",
+    "price": 1000,
+    "category": "Drones",
+    "status": true,
+    "stock": 10,
+    "thumbnail": [
+      {
+        "id": 1,
+        "url": "https://cdn.pixabay.com/photo/2016/11/29/05/08/apple-1867461_960_720.jpg"
+      },
+      {
+        "id": 2,
+        "url": "https://cdn.pixabay.com/photo/2016/11/29/05/08/apple-1867461_960_720.jpg"
+      }
+    ]
+  }
+]
